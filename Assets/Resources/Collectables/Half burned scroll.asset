@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e4b1788e2b2748c599422744890d7da, type: 3}
+  m_Name: Half burned scroll
+  m_EditorClassIdentifier: 
+  destroyable: 0
+  sprite: {fileID: 21300000, guid: d38f7281fd21b4dd890ff5d25aa2c153, type: 3}
+  description: A fireplace currently in use. There is something covered under the
+    pile of woods.
+  cost: 20
+  content: I, XXX, agree to work at XXX under my master, XXX. I agree to not quit
+    my job on my free ......

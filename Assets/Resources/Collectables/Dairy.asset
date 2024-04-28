@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e4b1788e2b2748c599422744890d7da, type: 3}
+  m_Name: Dairy
+  m_EditorClassIdentifier: 
+  destroyable: 1
+  sprite: {fileID: 21300000, guid: 2513cb8a77b944f97ad0a1427fde6021, type: 3}
+  description: An old dairy with no name on it. Looks like it's been frequently used.
+  cost: 60
+  content: '3/4/19XX
+
+    I''ve been working at this place for a few months.
+
+    Frankly,
+    I never met my master. I only heard her voice through the door when I left her
+    food in front of the door. I was curious at first, but quickly lost interest
+    in her true identity.
+
+
+    - Servant
+
+
+
+    20/4/19XX
+
+    I really don''t like
+    how it feels around here. Everytime I drive to this mansion, I am scared. But,
+    it''s a good opportunity to make me braver. After all, who doesn''t like high 
+    salary with little amount to work?
+
+
+    - Driver
+
+
+
+    1/4/19XX
+
+    I don''t
+    know why the workers I hired are so afraid of me. Is it because I live in a mansion
+    far from where most people live? Or is it because I like to stay alone and never
+    met them in person?
+
+
+    - Owner'

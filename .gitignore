@@ -1,0 +1,16 @@
+# Unity specific
+Library/
+Temp/
+Builds/
+obj/
+Logs/
+UserSettings/
+*.pidb
+*.userprefs
+Packages/
+[ProjectName].csproj
+[ProjectName].sln
+
+# OS-specific
+.DS_Store
+Thumbs.db
